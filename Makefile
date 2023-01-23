@@ -1,8 +1,8 @@
 NAME	=	push_swap
 
-CC		= gcc -Wall -Wextra -Werror
+CC		= gcc 
 
-CFLAGS	=	-Wall 
+CFLAGS	=	-Wall -Wextra -Werror
 
 SRC	=	push_swap.c\
 		find_best.c \
